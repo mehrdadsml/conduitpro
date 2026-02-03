@@ -222,3 +222,11 @@ This is expected behavior.
 - Your server is ready
 - It may take up to **24 hours** before users can connect via Psiphon
 - After that, the server works normally
+
+---
+
+### iOS Version
+https://apps.apple.com/ca/app/conduit-pro/id6758527303
+
+### MacOS Version
+https://github.com/polamgh/Conduit-Pro
