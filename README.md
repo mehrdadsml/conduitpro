@@ -22,7 +22,7 @@ Conduit Pro is an Android application that allows you to quickly deploy and mana
 
 ---
 
-### گزینه ۱: DigitalOcean (پیشنهادی)
+### گزینه ۱: DigitalOcean (یکی از این دو گزینه را انتخاب کنید)
 
 🌐 وب‌سایت:  
 https://www.digitalocean.com/
@@ -132,7 +132,7 @@ Two recommended providers are listed below.
 
 ---
 
-### Option 1: DigitalOcean (Recommended)
+### Option 1: DigitalOcean (Choose one of these two options.)
 
 🌐 Website:  
 https://www.digitalocean.com/
